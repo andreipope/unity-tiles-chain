@@ -26,7 +26,7 @@ git clone https://github.com/loomnetwork/unity-tiles-chain
 ### 3.) Start the DappChain
 
 ```bash
-cd tiles-chain
+cd unity-tiles-chain
 mkdir tmpgopath
 export GOPATH=`pwd`/tmpgopath
 
