@@ -1,3 +1,8 @@
+# Deprecated Repository
+
+This repository is **deprecated and no longer maintained**. Head over to
+[this page](https://loomx.io/developers/docs/en/join-testnet.html) to find out how you can join the Loom PlasmaChain Testnet.
+
 # Unity Tiles Chain Sample
 
 A basic example showcasing a simple Unity game interacting with a Loom DappChain, using [Loom Unity SDK](https://github.com/loomnetwork/unity3d-sdk).
